@@ -1,0 +1,20 @@
+{
+    "name": "patrickmaken/avlytext-client",
+    "description": "PHP library for sending SMS using AvlyText API (https://avlytext.com)",
+    "authors": [
+        {
+            "name": "Patrick Madeng",
+            "email": "patrickmaken@gmail.com",
+            "role": "IT Engineer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Patrickmaken\\AvlyText\\": "src/"
+        }
+    }
+}
