@@ -14,7 +14,7 @@ composer require patrickmaken/avlytext-client
 
 ## Usage
 
-Before any operation, you must get your api_key. This value are available in the "Deleloppers" of your customer panel on the platform [https://www.avlytext.com/en/webapp/developers](https://www.avlytext.com/en/webapp/developers).
+Before any operation, you must get your api_key. This value are available in the "Developpers" menu of your customer panel on the platform: [https://www.avlytext.com/en/webapp/developers](https://www.avlytext.com/en/webapp/developers).
 
 ### Send SMS
 
